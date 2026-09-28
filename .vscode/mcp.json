@@ -1,0 +1,11 @@
+{
+  "servers": {
+    "hindsight": {
+      "type": "http",
+      "url": "https://api.hindsight.vectorize.io/mcp/code-reviewing-agent/",
+      "headers": {
+        "Authorization": "hsk_60651d7ce8fc2821b36ab03506f3cf33_bcab121aa6a8a8f3"
+      }
+    }
+  }
+}
